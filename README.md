@@ -24,6 +24,7 @@ The code in this case is run for very few epochs to show the proof of concept an
 Some of the paramters like epochs/learning rate are unrealistic and not expected to produce results. 
 The following suggestions are some of the methods to improve the models - 
 - Exception handling
+- Comments
 - Change slicing of train/test dataset from column name to last column 
 - Adding assertions
 - Creating separate functions to compile and fit models
